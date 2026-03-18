@@ -1,4 +1,4 @@
-# Task API con JWT, MongoDB e Swagger
+# Task API con JWT in chiaro, MongoDB e Swagger
 
 API REST sviluppata in TypeScript con Express e MongoDB per la gestione di utenti e task.
 
